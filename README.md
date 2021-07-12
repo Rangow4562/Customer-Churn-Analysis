@@ -9,3 +9,5 @@ Using the new keras package to produce an Artificial Neural Network (ANN) mo
 In addition, we use three new packages to assist with Machine Learning (ML): recipes for preprocessing, rsample for sampling data and yardstick for model metrics.
 
 ![image](https://user-images.githubusercontent.com/70890713/122206545-20d77a80-cebf-11eb-91ea-c940e0246bb0.png)
+![image](https://user-images.githubusercontent.com/70890713/125238334-b91d1f80-e304-11eb-9e4b-0e82ad06fdd8.png)
+
