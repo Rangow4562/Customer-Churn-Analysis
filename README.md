@@ -18,9 +18,10 @@ cost = FN(300) + TP(60) + FP(60) + TN(0)
 
 Since the ANN model seemed to perform slightly better, I’ll use that model.
 ![image](https://user-images.githubusercontent.com/70890713/125238633-1ca74d00-e305-11eb-8c78-626f3e252711.png)
-If we assume that our baseline model is the ANN model with a threshold of 0.5, the cost associated with this model is 38.28409/customer.
-If we optimize the model and use a threshold of 0.2, our customer retention cost is reduced to 30.26478/customer.
-Assuming a customer base of 500,000 this comes out to a yearly savings of over 19142045.
+
 ![image](https://user-images.githubusercontent.com/70890713/125238766-4c565500-e305-11eb-91d1-4288b1d8a790.png)
+
+![image](https://user-images.githubusercontent.com/70890713/125238804-61cb7f00-e305-11eb-8498-23e2c464e027.png)
+![image](https://user-images.githubusercontent.com/70890713/125238816-68f28d00-e305-11eb-8dee-94e7ed177f4b.png)
 
 
