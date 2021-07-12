@@ -11,3 +11,8 @@ In addition, we use three new packages to assist with Machine Learning (ML): r
 ![image](https://user-images.githubusercontent.com/70890713/122206545-20d77a80-cebf-11eb-91ea-c940e0246bb0.png)
 ![image](https://user-images.githubusercontent.com/70890713/125238334-b91d1f80-e304-11eb-9e4b-0e82ad06fdd8.png)
 
+All of the previous modeling and evaluation metrics were useful, but they don’t tell us much about the actual impacts on the business To start, I’ll make several assumptions related to cost. Doing a quick search, it looks like the customer acquisition cost in the telecom industry is around 300.  I’ll assume that my customer retention costs are 60.
+cost = FN(300) + TP(60) + FP(60) + TN(0)
+
+![image](https://user-images.githubusercontent.com/70890713/125238516-f5508000-e304-11eb-979d-e5fc1931a501.png)
+
